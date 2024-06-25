@@ -1,7 +1,6 @@
 # Netflix UI Clone App
 
-![WhatsApp Image 2024-06-25 at 17 20 40_63af987f](https://github.com/abhishekpandeygithub/netflix_ui/assets/125178208/d0ac2ce8-78e9-4aa6-a419-e34b2d14eb31)
-
+![WhatsApp Image 2024-06-25 at 17 20 39_eb272ed0](https://github.com/abhishekpandeygithub/netflix_ui/assets/125178208/7a3069ab-1b07-4eec-a96e-46bdec169cab)
 
 A simple Netflix UI clone app built using Flutter and integrated with the TMDB (The Movie Database) API to fetch real-time data for movies and TV shows.
 
