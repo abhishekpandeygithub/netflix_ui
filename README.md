@@ -1,6 +1,7 @@
 # Netflix UI Clone App
 
-![Netflix UI Clone Screenshot](path_to_your_screenshot_image)
+![WhatsApp Image 2024-06-25 at 17 20 40_63af987f](https://github.com/abhishekpandeygithub/netflix_ui/assets/125178208/d0ac2ce8-78e9-4aa6-a419-e34b2d14eb31)
+
 
 A simple Netflix UI clone app built using Flutter and integrated with the TMDB (The Movie Database) API to fetch real-time data for movies and TV shows.
 
@@ -13,7 +14,8 @@ A simple Netflix UI clone app built using Flutter and integrated with the TMDB (
 
 ## Screenshots
 
-![Home Screen](path_to_home_screen_image)
+![WhatsApp Image 2024-06-25 at 17 20 40_63af987f](https://github.com/abhishekpandeygithub/netflix_ui/assets/125178208/d0ac2ce8-78e9-4aa6-a419-e34b2d14eb31)
+
 ![Now Playing](path_to_now_playing_image)
 ![Upcoming Movies](path_to_upcoming_movies_image)
 
