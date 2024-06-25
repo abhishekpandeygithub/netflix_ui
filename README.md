@@ -17,7 +17,6 @@ A simple Netflix UI clone app built using Flutter and integrated with the TMDB (
 .........
 
 
-![WhatsApp Image 2024-06-25 at 17 20 40_4c7e6715](https://github.com/abhishekpandeygithub/netflix_ui/assets/125178208/960e67cc-cf21-43dc-8ec7-55b2aa8d84e5)
 
 
 .............
